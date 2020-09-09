@@ -3,7 +3,7 @@ namespace Unit2
 {
     public class Program4
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             string s = Console.ReadLine();
             var flip = 1;
