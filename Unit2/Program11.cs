@@ -4,7 +4,7 @@ namespace Unit2
 {
     class Program11
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             string str1 = Console.ReadLine();
             string str2 = Console.ReadLine();
